@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ModeloSAG" id="1E547990-DEEE-3445-3689-8BB0505A4A29" version="3.5">
+<createdBy>ejugo</createdBy>
+<createdTime>2020-07-16 22:34:03 UTC</createdTime>
+<ownerDesignName>ModeloSAG</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>1E547990-DEEE-3445-3689-8BB0505A4A29</designId>
+</OSDM_Design>
